@@ -1,5 +1,5 @@
 # loan-prediction
-supervised learning for predicting the loan Throught dataset
+supervised learning for predicting the loan Through dataset
 
 ## Algorithm used
 * Logistic Regression
